@@ -4,6 +4,7 @@ This code provides a simple implementation of a clothing similarity model that u
 
 Usage:
 1. Data Preparation:
+   - This dataset is prepared using webscraping ajio site. 490 product details (URL, Item name) are extracted using some AI tools.
    - Ensure that your clothing data is stored in a CSV file named 'dataset.csv' in the same directory as the code file.
    - The CSV file should contain a column named 'Item' that represents the textual description of each clothing item.
 
